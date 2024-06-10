@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = ""
 
 model_id = "gpt-3.5-turbo"
 # Initial message to ask the first question
