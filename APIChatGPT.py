@@ -3,7 +3,7 @@ import random
 from timeout_decorator import timeout, TimeoutError
 
 # DIESE FILE MÜSSEN AM ENDE VIELE FUNKTIONEN IN ANDERE FILES GEZOGEN WERDEN !!!! meiste in apiCommunication
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def restartable_timeout(timeout_duration):
